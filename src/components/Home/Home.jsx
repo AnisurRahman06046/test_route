@@ -6,6 +6,7 @@ function Home() {
   return (
     <div>
       <Navbar />
+      <h1>This is home page landing page</h1>
       <Outlet />
       <Footer />
     </div>
